@@ -1,0 +1,11 @@
+HTTrack3.49-5 launched on Thu, 02 Jul 2026 03:17:17 at https://gvarishvilii.framer.website/ +*.framer.website/*
+(httrack https://gvarishvilii.framer.website/ -O ./gvarishvilii-static/ +*.framer.website/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-5 mirror complete in 10 seconds : 9 links scanned, 8 files written (1853260 bytes overall) [246966 bytes received at 24696 bytes/sec], 1853378 bytes transferred using HTTP compression in 9 files, ratio 12%
+(No errors, 0 warnings, 0 messages)
